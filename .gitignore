@@ -1,2 +1,7 @@
 sample.txt
 Therresa.jpg
+encrypted_key.key
+receiver_private_key.key
+receiver_pub_key.pub
+output_decrypted_file.txt
+output_encrypted_file.txt
