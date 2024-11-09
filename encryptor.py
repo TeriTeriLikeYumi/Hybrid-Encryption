@@ -22,7 +22,7 @@ def encrypt_file(input_file, output_file, symmetric_key):
         f.write(ciphertext)
 
 def main():
-    parser = argparse.ArgumentParser(description="Encryptor")
+    parser = argparse.ArgumentParser()
     parser.add_argument("--receiver_pub_key", required=True)
     parser.add_argument("--input_file", required=True)
     parser.add_argument("--output_encrypted_file", required=True)

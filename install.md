@@ -1,7 +1,7 @@
 
 # Installation Guide
 
-Follow these steps to set up and run the encryption and decryption system.
+Follow these steps to set up and run the Hybrid Encryption system.
 
 ## 1. Install Required Libraries
 
