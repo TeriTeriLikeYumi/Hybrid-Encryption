@@ -30,7 +30,7 @@ To encrypt a file using the generated public key, execute the following command:
 
 ```bash
 python encryptor.py --receiver_pub_key=receiver_pub_key.pub \
---input_file=file_to_encrypt.txt \
+--input_file=sample.txt \
 --output_encrypted_file=output_encrypted_file.txt \
 --output_encrypted_symmetric_key=encrypted_key.key
 ```
